@@ -331,3 +331,8 @@ p.r_dot.black-color:before{
 .small-divider{
 	height: 8vh;
 }
+p.nummer{
+	margin-bottom: -20px;
+	color: #ba180a;
+	
+}
