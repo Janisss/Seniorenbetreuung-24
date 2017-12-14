@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media (max-width: 767px){
+	body{
+		-webkit-overflow-scrolling: touch;
+	}
+	#titlel, #title, .rig{
+		background-attachment: unset;
+	}
+	.lig, #slide2{
+		display: none;
+	}
+	.leftpic{
+		background-size: cover;
+		height: 250px;
+	}
+	.rigb, .hands, .rig{
+		background-attachment: unset;
+		height: 35vh;
+	}
+	p.r_dot{
+		line-height: 1.5;
+	}
+	.g-h{
+		display: none;
+	}
+	.slide{
+		padding: 5vh 1%;
+	}
+	#slide4 ul{
+		padding: 0;
+	}
+	#slide4 li{
+		list-style: none;
+		text-align: center;
+	}
+	.mini{
+		min-height: 90px;
+		padding-bottom: 10px;
+	}
+	.form input{
+		width: 100%;
+	}
+	.form textarea{
+		width: 100%;
+	}
+}
